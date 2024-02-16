@@ -2,7 +2,7 @@
 
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas.
-- 🌱Atualmente estou estudando **HTML5, CSS3 e JavaScript**
+- 🌱Atualmente estou estudando **REACT NATIVE, NODE JS, E TYPESCRIPT**
 - 🫡 Em busca de um estágio/ Jr. DEV
 - 📧 Me mande um e-mail: MateusSlimaDeveloper@outlook.com
 
