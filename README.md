@@ -22,12 +22,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
   
-           
-          
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:80px;" src="https://cdn.discordapp.com/attachments/1020375980763787355/1078779213974360104/Video_sem_titulo_Feito_com_o_Clipchamp_1.gif">
-</div>
-
 ##
 
 
