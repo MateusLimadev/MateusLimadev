@@ -7,10 +7,10 @@
 - 📧 Me mande um e-mail: MateusSlimaDeveloper@outlook.com
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=MateusLimadev&show_icons=true&theme=radical&count_private=true&hide=stars,prs,issues,contribs)
+![Github stats](https://github-readme-stats.vercel.app/api?username=MateusLimadev&show_icons=true&theme=default,_private=true&hide=stars,prs,issues,contribs)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLimadev&layout=compact&langs_count=16&theme=radical)](https://github.com/MateusLimadev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLimadev&layout=compact&langs_count=16&theme=default)](https://github.com/MateusLimadev/github-readme-stats)
 
 <div style="display: inline_block"><br>
   
