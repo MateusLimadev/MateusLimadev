@@ -7,10 +7,11 @@
 - 📧 Me mande um e-mail: MateusSlimaDeveloper@outlook.com
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=MateusLimadev&show_icons=true&theme=graywhite,_private=true&hide=stars,prs,issues,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusLimadev&hide=contribs,prs,stars,issues,?theme=default)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLimadev&layout=compact&langs_count=16&theme=graywhite)](https://github.com/MateusLimadev/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLimadev&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   
@@ -20,7 +21,7 @@
           
   
   
-##
+
 
 
 <div> 
