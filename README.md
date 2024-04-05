@@ -25,8 +25,10 @@ src="https://img.shields.io/github/followers/MateusLimadev?logo=github&style=for
 
 <b>Minhas Estatísticas no GitHub</b>
 
+<a href="https://github.com/MateusLimadev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLimadev&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en&custom_title=Linguagens%20Mais%20Usadas" alt="Top Languages" /></a>
+
 <a href="http://www.github.com/MateusLimadev"><img src="https://github-readme-stats.vercel.app/api?username=MateusLimadev&show_icons=true&hide=stars,issues,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de MateusLimadev" /></a>
 
 <a href="http://www.github.com/MateusLimadev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MateusLimadev&stroke=ffffff&background=181824&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/MateusLimadev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLimadev&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en&custom_title=Linguagens%20Mais%20Usadas" alt="Top Languages" /></a>
+
