@@ -3,7 +3,7 @@
 
 * 🌍  São Paulo - Brasil
 * ✉️  Você pode entrar em contato comigo em [Mateu.slima@outlook.com](mailto:Mateu.slima@outlook.com)
-* 🧠  Estou aprendendo React, React Native e Node JS.
+* 🧠  Estou aprendendo React, React Native, Node Js e Tailwind CSS.
 * 🤝  Estou aberto a colaborar em Desenvolvimento Web e Mobile.
 
 <a href="https://www.github.com/MateusLimadev" target="_blank" rel="noreferrer"><img
