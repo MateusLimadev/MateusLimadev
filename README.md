@@ -2,7 +2,7 @@
 ===================================================================================================================================
 
 * 🌍  São Paulo - Brasil
-* ✉️  Você pode entrar em contato comigo em [MateusSlimaDeveloper@outlook.com](mailto:Mateu.slima@outlook.com)
+* ✉️  Você pode entrar em contato comigo em [Mateu.slima@outlook.com](mailto:Mateu.slima@outlook.com)
 * 🧠  Estou aprendendo React, React Native e Node JS.
 * 🤝  Estou aberto a colaborar em Desenvolvimento Web e Mobile.
 
