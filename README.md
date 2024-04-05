@@ -1,40 +1,32 @@
-### Olá! eu sou o Mateus! 😃
+![imagem](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Olá, sou Mateus Lima!
+===================================================================================================================================
+
+* 🌍  São Paulo - Brasil
+* ✉️  Você pode entrar em contato comigo em [MateusSlimaDeveloper@outlook.com](mailto:MateusSlimaDeveloper@outlook.com)
+* 🧠  Estou aprendendo React, React Native e Node JS.
+* 🤝  Estou aberto a colaborar em Desenvolvimento Web e Mobile.
+
+<a href="https://www.github.com/MateusLimadev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/MateusLimadev?logo=github&style=for-the-badge&color=6366f1&labelColor=181824" /></a>
+
+### Habilidades
 
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas.
-- 🌱Atualmente estou estudando **React Native, Node JS, e TypeScrpt.**
-- 👀 Em busca de um estágio
-- 📧 Me mande um e-mail: MateusSlimaDeveloper@outlook.com
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/pt-BR/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
+</p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusLimadev&hide=contribs,prs,stars,issues,?theme=midnight-purple)
+### Redes Sociais
 
+<p align="left"> <a href="https://discord.com/users/mattzli" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/MateusLimadev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/matts_._" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/mateuslimadev/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+### Distintivos
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLimadev&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<b>Minhas Estatísticas no GitHub</b>
 
-<div style="display: inline_block"><br>
-  
- 
+<a href="http://www.github.com/MateusLimadev"><img src="https://github-readme-stats.vercel.app/api?username=MateusLimadev&show_icons=true&hide=stars,issues,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de MateusLimadev" /></a>
 
+<a href="http://www.github.com/MateusLimadev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MateusLimadev&stroke=ffffff&background=181824&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-          
-  
-  
-
-
-
-<div> 
- 
-  <a href="https://instagram.com/matts_._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/mattiiRP" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/cpgqDH2r" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:mateu.slima@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/mateus-lima-7006351b3](https://[www.linkedin.com/in/mateus-lima-18a074290](https://www.linkedin.com/in/mateus-lima-18a074290/)/)/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
-</div>
-
-
-
-
+<a href="https://github.com/MateusLimadev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLimadev&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en&custom_title=Linguagens%20Mais%20Usadas" alt="Top Languages" /></a>
